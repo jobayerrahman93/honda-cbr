@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+
+header
+{
+    background: #264653;
+    
+}
+header h1
+{
+    color: #fff;
+    font-weight: 600;
+}
+header p
+{
+    color: #E0E0E0;
+    
+}
+
+
+header .modalButton
+{
+    background: #E76F51!important;
+    color: #fff!important;
+}
+
+h1
+{
+    font-weight: 600;
+
+}
+
+p,span
+{
+    color:  #E76F51!important;
+}
+
+
+/* Featured Section */
+.featured .container .img1, .img3
+{
+    filter: grayscale(100%);
+}
+
+
+    /* happy-customer */
+h6
+{
+    color: #23A6F0;
+
+}
+.ratingfull
+{
+    color:#E76F51!important ;
+}
+.far
+{
+    color:#E76F51!important ;
+}
+
+
+/* purchase */
+.purchase
+{
+    background: url(images/purchase.jpg);
+   
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+/* Sponsored */
